@@ -1,3 +1,5 @@
+> ### 代码fork自 [minio](https://github.com/minio/minio.git) , 对console进行简中翻译，仅用于初学golang练习。
+
 # MinIO Quickstart Guide
 
 [![Slack](https://slack.min.io/slack?type=svg)](https://slack.min.io) [![Docker Pulls](https://img.shields.io/docker/pulls/minio/minio.svg?maxAge=604800)](https://hub.docker.com/r/minio/minio/) [![license](https://img.shields.io/badge/license-AGPL%20V3-blue)](https://github.com/minio/minio/blob/master/LICENSE)
